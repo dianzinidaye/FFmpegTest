@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FFmpegTest</string>
+    <string name="bt_play">播放</string>
+</resources>
